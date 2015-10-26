@@ -1,0 +1,165 @@
+C:\!BootsProjects\Todo\Todo\bin\Todo.dll.config
+C:\!BootsProjects\Todo\Todo\bin\Todo.dll
+C:\!BootsProjects\Todo\Todo\bin\Todo.pdb
+C:\!BootsProjects\Todo\Todo\bin\Antlr3.Runtime.dll
+C:\!BootsProjects\Todo\Todo\bin\EntityFramework.dll
+C:\!BootsProjects\Todo\Todo\bin\EntityFramework.SqlServer.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Google.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Web.Infrastructure.dll
+C:\!BootsProjects\Todo\Todo\bin\Newtonsoft.Json.dll
+C:\!BootsProjects\Todo\Todo\bin\Owin.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Helpers.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Mvc.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Optimization.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Razor.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.Deployment.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.Razor.dll
+C:\!BootsProjects\Todo\Todo\bin\WebGrease.dll
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Helpers.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Mvc.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Optimization.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.Razor.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.Deployment.xml
+C:\!BootsProjects\Todo\Todo\bin\System.Web.WebPages.Razor.xml
+C:\!BootsProjects\Todo\Todo\bin\Antlr3.Runtime.pdb
+C:\!BootsProjects\Todo\Todo\bin\Newtonsoft.Json.xml
+C:\!BootsProjects\Todo\Todo\bin\EntityFramework.xml
+C:\!BootsProjects\Todo\Todo\bin\EntityFramework.SqlServer.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Google.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\!BootsProjects\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\!BootsProjects\Todo\Todo\obj\Debug\Todo.csprojResolveAssemblyReference.cache
+C:\!BootsProjects\Todo\Todo\obj\Debug\Todo.dll
+C:\!BootsProjects\Todo\Todo\obj\Debug\Todo.pdb
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Todo.dll.config
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Todo.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Todo.pdb
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Antlr3.Runtime.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\EntityFramework.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\EntityFramework.SqlServer.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Newtonsoft.Json.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Owin.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Helpers.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Mvc.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Optimization.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Razor.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\WebGrease.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Helpers.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Mvc.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Optimization.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.Razor.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Antlr3.Runtime.pdb
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Newtonsoft.Json.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\EntityFramework.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\EntityFramework.SqlServer.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\obj\Debug\Todo.csprojResolveAssemblyReference.cache
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\obj\Debug\Todo.dll
+C:\Users\gosia.borzecka\Desktop\todo\Todo\Todo\obj\Debug\Todo.pdb
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Todo.dll.config
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Todo.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Todo.pdb
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Antlr3.Runtime.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\EntityFramework.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\EntityFramework.SqlServer.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Newtonsoft.Json.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Owin.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Helpers.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Mvc.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Optimization.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Razor.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\WebGrease.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Helpers.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Mvc.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Optimization.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.Razor.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Antlr3.Runtime.pdb
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Newtonsoft.Json.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\EntityFramework.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\EntityFramework.SqlServer.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\obj\Debug\Todo.csprojResolveAssemblyReference.cache
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\obj\Debug\Todo.dll
+C:\Users\gosia.borzecka\Desktop\New folder (2)\todo\Todo\Todo\obj\Debug\Todo.pdb
